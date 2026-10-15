@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="fondo_oscuro">#0A0A0A</color>
+    <color name="negro_profundo">#000000</color>
+    <color name="card_fondo">#1C1C1C</color>
+    <color name="gris_oscuro">#2A2A2A</color>
+    <color name="gris_medio">#3D3D3D</color>
+    <color name="gris_claro">#888888</color>
+    <color name="gris_texto">#CCCCCC</color>
+    <color name="bordo">#8B0027</color>
+    <color name="bordo_claro">#B5003A</color>
+    <color name="bordo_oscuro">#5A0018</color>
+    <color name="bordo_brillo">#D4003F</color>
+    <color name="separador">#2A2A2A</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
